@@ -1,0 +1,27 @@
+.login {
+  margin-top: 70px;
+}
+body {
+  background-color: rgb(233, 233, 233);
+}
+.sign_up {
+  margin-top: 70px;
+}
+.secName {
+  margin-top: 5px;
+}
+input {
+  caret-color: rgb(199, 17, 17);
+}
+.requird {
+  color: red;
+}
+.note {
+  margin-top: 70px;
+}
+.text {
+  caret-color: rgb(199, 17, 17);
+  height: 100px;
+    padding: 14px;
+    margin-top: 30px;
+}
