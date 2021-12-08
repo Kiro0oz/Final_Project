@@ -21,4 +21,4 @@ and i creat this wibsite alone.
 * This site is very simble 
 
 ## Required 
-**You should enter your email and password to login in site (you can use any fake email to login in and password you should write a pass is not less than 7 letters)
+**You should enter your email and password to login in site (you can use any fake email to login in and password you should write a pass is not less than 7 letters)**
