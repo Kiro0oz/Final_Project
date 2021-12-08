@@ -2,8 +2,8 @@
 ## Harverdx cs50 final project
 
 **Hello, World**
-I'm Kiro and this my *FINAL PROJECT*
-I'm From Egypt❤
+*I'm Kiro and this my *FINAL PROJECT*
+*I'm From Egypt❤
 
 # Language uesing This Site
 In this site I'm uesing these lang,
